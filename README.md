@@ -3,7 +3,7 @@ To view an online version of these notebooks:
 
 1. Optimisation:
 
-[![Binder](https://img.shields.io/badge/View%20Jupyter%20Notebook-Click%20here-green)](https://nbviewer.jupyter.org/github/jg719/Optimisation-and-Data-Assimilation/blob/master/1.%20Optimisation/ACSE7-CourseworkB.ipynb)
+[![Binder](https://img.shields.io/badge/View%20Jupyter%20Notebook-Click%20here-green)](https://nbviewer.jupyter.org/github/jg719/Optimisation-and-Data-Assimilation/blob/master/1.%20Optimisation/ACSE7-CourseworkB.ipynb?flush_cache=true)
 
 
 2. Data Assimilation:
